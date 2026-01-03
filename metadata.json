@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ShopSnap",
+  "description": "The ultimate shopping companion to scan, search, and compare prices across 15+ major retailers instantly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
